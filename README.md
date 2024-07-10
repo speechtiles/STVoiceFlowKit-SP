@@ -37,7 +37,7 @@ User guides, source code for complete sample applications accompanied with confi
 
 ## Support
 
-For questions or to report issues, open a ticket on our [support platform](https://speechtiles.com/developer/support.php). Visit [SpeechTiles.com](https://www.speechTiles.com/developer) to register as a Speech Tiles developer or to access the developer area. Visit [SpeechTiles.com](https://www.speechTiles.com) for the more information.
+For questions or to report issues, open a ticket on our [support platform](https://speechtiles.com/developer/support.php). Visit [SpeechTiles.com/developer](https://www.speechTiles.com/developer) to register as a Speech Tiles developer or to access the developer area. Visit [SpeechTiles.com](https://www.speechTiles.com) for the more information.
 
 Thanks,
 The Speech Tiles Team
